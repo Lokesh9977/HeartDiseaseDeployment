@@ -105,7 +105,7 @@
           return;
         }
 
-        resultDiv.className = data.prediction.includes("Detected") ? "detected" : "clear";
+        resultDiv.className = data.prediction.startsWith("Heart Disease Detected") ? "detected" : "clear";
         resultDiv.textContent = `${data.prediction} (probability: ${data.probability})`;
         resultDiv.style.display = "block";
       } catch (err) {
