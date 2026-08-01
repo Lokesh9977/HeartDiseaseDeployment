@@ -105,8 +105,7 @@ The API will be available at `http://127.0.0.1:5000`.
 
 ### Live Deployment URL
 
-**Render URL:** **Render URL:** `https://heartdiseasedeployment-9itc.onrender.com`
-
+**Render URL:** `https://heartdiseasedeployment-9itc.onrender.com`
 
 ## Conclusion
 
