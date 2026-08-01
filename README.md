@@ -105,12 +105,8 @@ The API will be available at `http://127.0.0.1:5000`.
 
 ### Live Deployment URL
 
-**Render URL:** `<ADD YOUR RENDER DEPLOYMENT URL HERE AFTER DEPLOYING>`
+**Render URL:** **Render URL:** `https://heartdiseasedeployment-9itc.onrender.com`
 
-> This project was generated locally and has not been deployed yet — a
-> Render deployment requires your own GitHub + Render accounts. Once
-> deployed, replace the line above with your live URL, e.g.:
-> `https://heart-disease-deployment.onrender.com`
 
 ## Conclusion
 
